@@ -1,6 +1,6 @@
 # HTWG Corporate Identity LaTeX Template
 
-[![Build Status](https://travis-ci.org/FunkeMT/htwg-latex.svg?branch=master)](https://travis-ci.org/FunkeMT/htwg-latex)
+Forked from https://github.com/FunkeMT/htwg-latex?tab=readme-ov-file
 
 > Based on _tudelft-report-latex_
 > 
